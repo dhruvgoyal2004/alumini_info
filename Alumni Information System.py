@@ -27,7 +27,7 @@ def Reset():
     f_name.set("")
     m_name.set("")
     l_name.set("")
-    gender.set("")
+    gender.set("")#fg
     age.set("")
     home_address.set("")
     phone_number.set("")
